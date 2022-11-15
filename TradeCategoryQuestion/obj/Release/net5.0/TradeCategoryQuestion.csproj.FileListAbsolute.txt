@@ -1,0 +1,16 @@
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\TradeCategoryQuestion.exe
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\TradeCategoryQuestion.deps.json
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\TradeCategoryQuestion.runtimeconfig.json
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\TradeCategoryQuestion.runtimeconfig.dev.json
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\TradeCategoryQuestion.dll
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\TradeCategoryQuestion.pdb
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\TradeCategoryQuestion.csproj.AssemblyReference.cache
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\TradeCategoryQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\TradeCategoryQuestion.AssemblyInfoInputs.cache
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\TradeCategoryQuestion.AssemblyInfo.cs
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\TradeCategoryQuestion.csproj.CoreCompileInputs.cache
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\TradeCategoryQuestion.dll
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\refint\TradeCategoryQuestion.dll
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\TradeCategoryQuestion.pdb
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\TradeCategoryQuestion.genruntimeconfig.cache
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\obj\Release\net5.0\ref\TradeCategoryQuestion.dll

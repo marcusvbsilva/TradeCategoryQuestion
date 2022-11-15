@@ -1,0 +1,5 @@
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\publish\TradeCategoryQuestion.exe
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\publish\TradeCategoryQuestion.dll
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\publish\TradeCategoryQuestion.deps.json
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\publish\TradeCategoryQuestion.runtimeconfig.json
+C:\dev\TradeCategoryQuestion\TradeCategoryQuestion\bin\Release\net5.0\publish\TradeCategoryQuestion.pdb
