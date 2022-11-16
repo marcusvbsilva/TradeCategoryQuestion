@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TradeCategoryQuestion.Enum;
 using TradeCategoryQuestion.Interfaces;
 
@@ -30,9 +26,9 @@ namespace TradeCategoryQuestion.Classes
         {
             if (this.NextPaymentDate.AddDays(30) < referenceDate)
                 return TradeEnum.Category.EXPIRED;
-            else if ((this.Value > 1000000) && (this.ClientSector == "Private"))
+            else if ((this.Value > 1000000) && (this.ClientSector.ToUpper() == "PRIVATE"))
                 return TradeEnum.Category.HIGHRISK;
-            else if ((this.Value > 1000000) && (this.ClientSector == "Public"))
+            else if ((this.Value > 1000000) && (this.ClientSector.ToUpper() == "PUBLIC"))
                 return TradeEnum.Category.MEDIUMRISK;
 
             return TradeEnum.Category.EXPIRED;
